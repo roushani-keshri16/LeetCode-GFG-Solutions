@@ -13,8 +13,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0031-next-permutation) |
+| [0567-permutation-in-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
