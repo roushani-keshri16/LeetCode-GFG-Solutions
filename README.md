@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
