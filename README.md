@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
