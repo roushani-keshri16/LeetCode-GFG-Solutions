@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0567-permutation-in-string) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -141,4 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
