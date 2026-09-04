@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0050-powx-n) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
