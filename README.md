@@ -78,16 +78,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
