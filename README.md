@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
