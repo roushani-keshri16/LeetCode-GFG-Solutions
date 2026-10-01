@@ -294,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
