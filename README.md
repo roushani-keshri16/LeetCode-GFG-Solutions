@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Database
 |  |
 | ------- |
@@ -309,9 +312,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
