@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0204-count-primes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0572-subtree-of-another-tree) |
