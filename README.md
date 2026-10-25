@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
