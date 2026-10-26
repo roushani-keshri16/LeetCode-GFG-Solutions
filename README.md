@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
