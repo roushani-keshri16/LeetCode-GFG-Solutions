@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1584-min-cost-to-connect-all-points](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2596-check-knight-tour-configuration](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -463,12 +464,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -478,4 +481,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/roushani-keshri16/LeetCode-GFG-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
